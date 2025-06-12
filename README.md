@@ -20,5 +20,5 @@ cd binary-converter-web
 
 Author
 
-@VitorCassio
+@Vitor Cassio
 
