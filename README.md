@@ -19,4 +19,5 @@ cd binary-converter-web
 ▶️ Open the binario.html file
 
 Author
-@Vitor Cassio
+
+@VitorCassio
